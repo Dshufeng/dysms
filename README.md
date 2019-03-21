@@ -10,7 +10,7 @@
 ## 安装
 
 ```shell
-composer require flc/dysms
+composer require dshufeng/dysms
 ```
 
 ## 使用
